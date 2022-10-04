@@ -14,4 +14,4 @@ console.log("<-----Sum of two integers---->")
 let int1 = 20
 let int2 = 30
 console.log("First interger is: "+int1+" Second integer is: "+int2)
-console.log((int1+int2)*3)
+a==b ? console.log((int1+int2)*3) : console.log(int1+int2)
